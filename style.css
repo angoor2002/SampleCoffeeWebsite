@@ -2,13 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Cooper", sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 html,
 body {
     height: 100%;
     width: 100%;
+    font-family: 'Roboto', sans-serif;
 }
 
 #main {
@@ -99,7 +100,7 @@ body {
 
 #img1 {
     height: 400px;
-    width: 260px;
+    width: 370px;
     position: absolute;
     left: 6%;
     top: 20%;
